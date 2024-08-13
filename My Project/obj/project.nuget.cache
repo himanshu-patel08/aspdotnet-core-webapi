@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "wmCVT0gzv5o=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Abhay\\Source\\Repos\\My Project\\My Project\\My Project.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
